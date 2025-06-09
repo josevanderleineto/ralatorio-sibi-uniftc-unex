@@ -1,6 +1,5 @@
 streamlit
 psycopg2-binary
-sqlite3  # (opcional, normalmente já embutido no Python)
 pandas
 bcrypt
 python-dotenv
