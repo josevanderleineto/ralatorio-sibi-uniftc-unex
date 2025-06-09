@@ -1,0 +1,5 @@
+streamlit
+sqlalchemy
+bcrypt
+psycopg2-binary
+
